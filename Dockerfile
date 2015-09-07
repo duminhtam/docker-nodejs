@@ -1,6 +1,6 @@
 FROM centos:6.6
 
-MAINTAINER Tam Du<tamdu@chotot.vn>
+MAINTAINER Tam Du <tamdu@chotot.vn>
 
 WORKDIR /app
 
