@@ -13,10 +13,8 @@ RUN source ~/.bashrc && npm i
 ```
 ## RUN
 docker run -d <yourtag> <npm-script>
-Example
-docker run -d <yourtag> start
-docker run -d <yourtag> start-api
-docker run -d <yourtag> start-app
+### Example
 
-
-
+    docker run -d <yourtag> start    
+    docker run -d <yourtag> start-api
+    docker run -d <yourtag> start-app
